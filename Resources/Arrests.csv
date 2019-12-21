@@ -1,0 +1,341 @@
+id,Border,Sector,Territory,Date,Value
+1,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2000 0:00,6237
+2,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2000 0:00,6478
+3,US-Mexico Border,Ramey,PR,1/1/2000 0:00,1731
+4,US-Canada Border,Blaine,"WA, OR",1/1/2000 0:00,2581
+5,US-Canada Border,Buffalo,"NY, PA",1/1/2000 0:00,1570
+6,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2000 0:00,2057
+7,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2000 0:00,562
+8,US-Canada Border,Havre,MT,1/1/2000 0:00,1568
+9,US-Canada Border,Houlton,ME,1/1/2000 0:00,489
+10,US-Canada Border,Spokane,"MT, ID, WA",1/1/2000 0:00,1324
+11,US-Canada Border,Swanton,"NH, VT, NY",1/1/2000 0:00,1957
+12,US-Mexico Border,Big Bend,TX,1/1/2000 0:00,13689
+13,US-Mexico Border,Del Rio,TX,1/1/2000 0:00,157178
+14,US-Mexico Border,El Centro,CA,1/1/2000 0:00,238126
+15,US-Mexico Border,El Paso,"NM, TX",1/1/2000 0:00,115696
+16,US-Mexico Border,Laredo,TX,1/1/2000 0:00,108973
+17,US-Mexico Border,Rio Grande Valley,TX,1/1/2000 0:00,133243
+18,US-Mexico Border,San Diego,CA,1/1/2000 0:00,151681
+19,US-Mexico Border,Tucson,AZ,1/1/2000 0:00,616346
+20,US-Mexico Border,Yuma,"CA, AZ",1/1/2000 0:00,108747
+21,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2001 0:00,5962
+22,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2001 0:00,5033
+23,US-Mexico Border,Ramey,PR,1/1/2001 0:00,1952
+24,US-Canada Border,Blaine,"WA, OR",1/1/2001 0:00,2089
+25,US-Canada Border,Buffalo,"NY, PA",1/1/2001 0:00,1434
+26,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2001 0:00,2106
+27,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2001 0:00,921
+28,US-Canada Border,Havre,MT,1/1/2001 0:00,1305
+29,US-Canada Border,Houlton,ME,1/1/2001 0:00,685
+30,US-Canada Border,Spokane,"MT, ID, WA",1/1/2001 0:00,1335
+31,US-Canada Border,Swanton,"NH, VT, NY",1/1/2001 0:00,2463
+32,US-Mexico Border,Big Bend,TX,1/1/2001 0:00,12087
+33,US-Mexico Border,Del Rio,TX,1/1/2001 0:00,104875
+34,US-Mexico Border,El Centro,CA,1/1/2001 0:00,172852
+35,US-Mexico Border,El Paso,"NM, TX",1/1/2001 0:00,112857
+36,US-Mexico Border,Laredo,TX,1/1/2001 0:00,87068
+37,US-Mexico Border,Rio Grande Valley,TX,1/1/2001 0:00,107844
+38,US-Mexico Border,San Diego,CA,1/1/2001 0:00,110075
+39,US-Mexico Border,Tucson,AZ,1/1/2001 0:00,449675
+40,US-Mexico Border,Yuma,"CA, AZ",1/1/2001 0:00,78385
+41,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2002 0:00,5143
+42,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2002 0:00,4665
+43,US-Mexico Border,Ramey,PR,1/1/2002 0:00,835
+44,US-Canada Border,Blaine,"WA, OR",1/1/2002 0:00,1732
+45,US-Canada Border,Buffalo,"NY, PA",1/1/2002 0:00,1102
+46,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2002 0:00,1511
+47,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2002 0:00,1369
+48,US-Canada Border,Havre,MT,1/1/2002 0:00,1463
+49,US-Canada Border,Houlton,ME,1/1/2002 0:00,432
+50,US-Canada Border,Spokane,"MT, ID, WA",1/1/2002 0:00,1142
+51,US-Canada Border,Swanton,"NH, VT, NY",1/1/2002 0:00,1736
+52,US-Mexico Border,Big Bend,TX,1/1/2002 0:00,11392
+53,US-Mexico Border,Del Rio,TX,1/1/2002 0:00,66985
+54,US-Mexico Border,El Centro,CA,1/1/2002 0:00,108273
+55,US-Mexico Border,El Paso,"NM, TX",1/1/2002 0:00,94154
+56,US-Mexico Border,Laredo,TX,1/1/2002 0:00,82095
+57,US-Mexico Border,Rio Grande Valley,TX,1/1/2002 0:00,89927
+58,US-Mexico Border,San Diego,CA,1/1/2002 0:00,100681
+59,US-Mexico Border,Tucson,AZ,1/1/2002 0:00,333648
+60,US-Mexico Border,Yuma,"CA, AZ",1/1/2002 0:00,42654
+61,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2003 0:00,5931
+62,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2003 0:00,5151
+63,US-Mexico Border,Ramey,PR,1/1/2003 0:00,1688
+64,US-Canada Border,Blaine,"WA, OR",1/1/2003 0:00,1380
+65,US-Canada Border,Buffalo,"NY, PA",1/1/2003 0:00,564
+66,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2003 0:00,2345
+67,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2003 0:00,1223
+68,US-Canada Border,Havre,MT,1/1/2003 0:00,1406
+69,US-Canada Border,Houlton,ME,1/1/2003 0:00,292
+70,US-Canada Border,Spokane,"MT, ID, WA",1/1/2003 0:00,992
+71,US-Canada Border,Swanton,"NH, VT, NY",1/1/2003 0:00,1955
+72,US-Mexico Border,Big Bend,TX,1/1/2003 0:00,10319
+73,US-Mexico Border,Del Rio,TX,1/1/2003 0:00,50145
+74,US-Mexico Border,El Centro,CA,1/1/2003 0:00,92099
+75,US-Mexico Border,El Paso,"NM, TX",1/1/2003 0:00,88816
+76,US-Mexico Border,Laredo,TX,1/1/2003 0:00,70521
+77,US-Mexico Border,Rio Grande Valley,TX,1/1/2003 0:00,77749
+78,US-Mexico Border,San Diego,CA,1/1/2003 0:00,111515
+79,US-Mexico Border,Tucson,AZ,1/1/2003 0:00,347263
+80,US-Mexico Border,Yuma,"CA, AZ",1/1/2003 0:00,56638
+81,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2004 0:00,4602
+82,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2004 0:00,2889
+83,US-Mexico Border,Ramey,PR,1/1/2004 0:00,1813
+84,US-Canada Border,Blaine,"WA, OR",1/1/2004 0:00,1354
+85,US-Canada Border,Buffalo,"NY, PA",1/1/2004 0:00,671
+86,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2004 0:00,1912
+87,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2004 0:00,1225
+88,US-Canada Border,Havre,MT,1/1/2004 0:00,986
+89,US-Canada Border,Houlton,ME,1/1/2004 0:00,263
+90,US-Canada Border,Spokane,"MT, ID, WA",1/1/2004 0:00,847
+91,US-Canada Border,Swanton,"NH, VT, NY",1/1/2004 0:00,2701
+92,US-Mexico Border,Big Bend,TX,1/1/2004 0:00,10530
+93,US-Mexico Border,Del Rio,TX,1/1/2004 0:00,53794
+94,US-Mexico Border,El Centro,CA,1/1/2004 0:00,74467
+95,US-Mexico Border,El Paso,"NM, TX",1/1/2004 0:00,104399
+96,US-Mexico Border,Laredo,TX,1/1/2004 0:00,74706
+97,US-Mexico Border,Rio Grande Valley,TX,1/1/2004 0:00,92947
+98,US-Mexico Border,San Diego,CA,1/1/2004 0:00,138608
+99,US-Mexico Border,Tucson,AZ,1/1/2004 0:00,491771
+100,US-Mexico Border,Yuma,"CA, AZ",1/1/2004 0:00,98060
+101,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2005 0:00,7245
+102,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2005 0:00,1358
+103,US-Mexico Border,Ramey,PR,1/1/2005 0:00,1619
+104,US-Canada Border,Blaine,"WA, OR",1/1/2005 0:00,1001
+105,US-Canada Border,Buffalo,"NY, PA",1/1/2005 0:00,400
+106,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2005 0:00,1793
+107,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2005 0:00,754
+108,US-Canada Border,Havre,MT,1/1/2005 0:00,948
+109,US-Canada Border,Houlton,ME,1/1/2005 0:00,233
+110,US-Canada Border,Spokane,"MT, ID, WA",1/1/2005 0:00,279
+111,US-Canada Border,Swanton,"NH, VT, NY",1/1/2005 0:00,1935
+112,US-Mexico Border,Big Bend,TX,1/1/2005 0:00,10536
+113,US-Mexico Border,Del Rio,TX,1/1/2005 0:00,68506
+114,US-Mexico Border,El Centro,CA,1/1/2005 0:00,55722
+115,US-Mexico Border,El Paso,"NM, TX",1/1/2005 0:00,122679
+116,US-Mexico Border,Laredo,TX,1/1/2005 0:00,75346
+117,US-Mexico Border,Rio Grande Valley,TX,1/1/2005 0:00,134186
+118,US-Mexico Border,San Diego,CA,1/1/2005 0:00,126904
+119,US-Mexico Border,Tucson,AZ,1/1/2005 0:00,439079
+120,US-Mexico Border,Yuma,"CA, AZ",1/1/2005 0:00,138438
+121,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2006 0:00,6032
+122,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2006 0:00,3053
+123,US-Mexico Border,Ramey,PR,1/1/2006 0:00,1436
+124,US-Canada Border,Blaine,"WA, OR",1/1/2006 0:00,811
+125,US-Canada Border,Buffalo,"NY, PA",1/1/2006 0:00,1517
+126,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2006 0:00,1281
+127,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2006 0:00,518
+128,US-Canada Border,Havre,MT,1/1/2006 0:00,568
+129,US-Canada Border,Houlton,ME,1/1/2006 0:00,175
+130,US-Canada Border,Spokane,"MT, ID, WA",1/1/2006 0:00,185
+131,US-Canada Border,Swanton,"NH, VT, NY",1/1/2006 0:00,1544
+132,US-Mexico Border,Big Bend,TX,1/1/2006 0:00,7520
+133,US-Mexico Border,Del Rio,TX,1/1/2006 0:00,42636
+134,US-Mexico Border,El Centro,CA,1/1/2006 0:00,61465
+135,US-Mexico Border,El Paso,"NM, TX",1/1/2006 0:00,122256
+136,US-Mexico Border,Laredo,TX,1/1/2006 0:00,74840
+137,US-Mexico Border,Rio Grande Valley,TX,1/1/2006 0:00,110528
+138,US-Mexico Border,San Diego,CA,1/1/2006 0:00,142104
+139,US-Mexico Border,Tucson,AZ,1/1/2006 0:00,392074
+140,US-Mexico Border,Yuma,"CA, AZ",1/1/2006 0:00,118549
+141,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2007 0:00,7120
+142,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2007 0:00,4018
+143,US-Mexico Border,Ramey,PR,1/1/2007 0:00,548
+144,US-Canada Border,Blaine,"WA, OR",1/1/2007 0:00,749
+145,US-Canada Border,Buffalo,"NY, PA",1/1/2007 0:00,2191
+146,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2007 0:00,902
+147,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2007 0:00,497
+148,US-Canada Border,Havre,MT,1/1/2007 0:00,486
+149,US-Canada Border,Houlton,ME,1/1/2007 0:00,95
+150,US-Canada Border,Spokane,"MT, ID, WA",1/1/2007 0:00,341
+151,US-Canada Border,Swanton,"NH, VT, NY",1/1/2007 0:00,1119
+152,US-Mexico Border,Big Bend,TX,1/1/2007 0:00,5536
+153,US-Mexico Border,Del Rio,TX,1/1/2007 0:00,22920
+154,US-Mexico Border,El Centro,CA,1/1/2007 0:00,55883
+155,US-Mexico Border,El Paso,"NM, TX",1/1/2007 0:00,75464
+156,US-Mexico Border,Laredo,TX,1/1/2007 0:00,56714
+157,US-Mexico Border,Rio Grande Valley,TX,1/1/2007 0:00,73430
+158,US-Mexico Border,San Diego,CA,1/1/2007 0:00,152460
+159,US-Mexico Border,Tucson,AZ,1/1/2007 0:00,378239
+160,US-Mexico Border,Yuma,"CA, AZ",1/1/2007 0:00,37992
+161,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2008 0:00,6020
+162,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2008 0:00,4303
+163,US-Mexico Border,Ramey,PR,1/1/2008 0:00,572
+164,US-Canada Border,Blaine,"WA, OR",1/1/2008 0:00,954
+165,US-Canada Border,Buffalo,"NY, PA",1/1/2008 0:00,3339
+166,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2008 0:00,961
+167,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2008 0:00,541
+168,US-Canada Border,Havre,MT,1/1/2008 0:00,427
+169,US-Canada Border,Houlton,ME,1/1/2008 0:00,81
+170,US-Canada Border,Spokane,"MT, ID, WA",1/1/2008 0:00,340
+171,US-Canada Border,Swanton,"NH, VT, NY",1/1/2008 0:00,1282
+172,US-Mexico Border,Big Bend,TX,1/1/2008 0:00,5391
+173,US-Mexico Border,Del Rio,TX,1/1/2008 0:00,20761
+174,US-Mexico Border,El Centro,CA,1/1/2008 0:00,40961
+175,US-Mexico Border,El Paso,"NM, TX",1/1/2008 0:00,30312
+176,US-Mexico Border,Laredo,TX,1/1/2008 0:00,43658
+177,US-Mexico Border,Rio Grande Valley,TX,1/1/2008 0:00,75473
+178,US-Mexico Border,San Diego,CA,1/1/2008 0:00,162390
+179,US-Mexico Border,Tucson,AZ,1/1/2008 0:00,317696
+180,US-Mexico Border,Yuma,"CA, AZ",1/1/2008 0:00,8363
+181,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2009 0:00,4425
+182,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2009 0:00,3527
+183,US-Mexico Border,Ramey,PR,1/1/2009 0:00,418
+184,US-Canada Border,Blaine,"WA, OR",1/1/2009 0:00,843
+185,US-Canada Border,Buffalo,"NY, PA",1/1/2009 0:00,2672
+186,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2009 0:00,1157
+187,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2009 0:00,472
+188,US-Canada Border,Havre,MT,1/1/2009 0:00,283
+189,US-Canada Border,Houlton,ME,1/1/2009 0:00,59
+190,US-Canada Border,Spokane,"MT, ID, WA",1/1/2009 0:00,277
+191,US-Canada Border,Swanton,"NH, VT, NY",1/1/2009 0:00,1043
+192,US-Mexico Border,Big Bend,TX,1/1/2009 0:00,6360
+193,US-Mexico Border,Del Rio,TX,1/1/2009 0:00,17082
+194,US-Mexico Border,El Centro,CA,1/1/2009 0:00,33521
+195,US-Mexico Border,El Paso,"NM, TX",1/1/2009 0:00,14999
+196,US-Mexico Border,Laredo,TX,1/1/2009 0:00,40569
+197,US-Mexico Border,Rio Grande Valley,TX,1/1/2009 0:00,60989
+198,US-Mexico Border,San Diego,CA,1/1/2009 0:00,118721
+199,US-Mexico Border,Tucson,AZ,1/1/2009 0:00,241673
+200,US-Mexico Border,Yuma,"CA, AZ",1/1/2009 0:00,6951
+201,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2010 0:00,4651
+202,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2010 0:00,3171
+203,US-Mexico Border,Ramey,PR,1/1/2010 0:00,398
+204,US-Canada Border,Blaine,"WA, OR",1/1/2010 0:00,673
+205,US-Canada Border,Buffalo,"NY, PA",1/1/2010 0:00,2422
+206,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2010 0:00,1669
+207,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2010 0:00,543
+208,US-Canada Border,Havre,MT,1/1/2010 0:00,290
+209,US-Canada Border,Houlton,ME,1/1/2010 0:00,56
+210,US-Canada Border,Spokane,"MT, ID, WA",1/1/2010 0:00,356
+211,US-Canada Border,Swanton,"NH, VT, NY",1/1/2010 0:00,1422
+212,US-Mexico Border,Big Bend,TX,1/1/2010 0:00,5288
+213,US-Mexico Border,Del Rio,TX,1/1/2010 0:00,14694
+214,US-Mexico Border,El Centro,CA,1/1/2010 0:00,32562
+215,US-Mexico Border,El Paso,"NM, TX",1/1/2010 0:00,12251
+216,US-Mexico Border,Laredo,TX,1/1/2010 0:00,35287
+217,US-Mexico Border,Rio Grande Valley,TX,1/1/2010 0:00,59766
+218,US-Mexico Border,San Diego,CA,1/1/2010 0:00,68565
+219,US-Mexico Border,Tucson,AZ,1/1/2010 0:00,212202
+220,US-Mexico Border,Yuma,"CA, AZ",1/1/2010 0:00,7116
+221,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2011 0:00,4401
+222,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2011 0:00,1509
+223,US-Mexico Border,Ramey,PR,1/1/2011 0:00,642
+224,US-Canada Border,Blaine,"WA, OR",1/1/2011 0:00,591
+225,US-Canada Border,Buffalo,"NY, PA",1/1/2011 0:00,2114
+226,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2011 0:00,1531
+227,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2011 0:00,468
+228,US-Canada Border,Havre,MT,1/1/2011 0:00,270
+229,US-Canada Border,Houlton,ME,1/1/2011 0:00,41
+230,US-Canada Border,Spokane,"MT, ID, WA",1/1/2011 0:00,293
+231,US-Canada Border,Swanton,"NH, VT, NY",1/1/2011 0:00,815
+232,US-Mexico Border,Big Bend,TX,1/1/2011 0:00,4036
+233,US-Mexico Border,Del Rio,TX,1/1/2011 0:00,16144
+234,US-Mexico Border,El Centro,CA,1/1/2011 0:00,30191
+235,US-Mexico Border,El Paso,"NM, TX",1/1/2011 0:00,10345
+236,US-Mexico Border,Laredo,TX,1/1/2011 0:00,36053
+237,US-Mexico Border,Rio Grande Valley,TX,1/1/2011 0:00,59243
+238,US-Mexico Border,San Diego,CA,1/1/2011 0:00,42447
+239,US-Mexico Border,Tucson,AZ,1/1/2011 0:00,123285
+240,US-Mexico Border,Yuma,"CA, AZ",1/1/2011 0:00,5833
+241,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2012 0:00,2509
+242,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2012 0:00,474
+243,US-Mexico Border,Ramey,PR,1/1/2012 0:00,702
+244,US-Canada Border,Blaine,"WA, OR",1/1/2012 0:00,537
+245,US-Canada Border,Buffalo,"NY, PA",1/1/2012 0:00,1143
+246,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2012 0:00,950
+247,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2012 0:00,418
+248,US-Canada Border,Havre,MT,1/1/2012 0:00,102
+249,US-Canada Border,Houlton,ME,1/1/2012 0:00,41
+250,US-Canada Border,Spokane,"MT, ID, WA",1/1/2012 0:00,317
+251,US-Canada Border,Swanton,"NH, VT, NY",1/1/2012 0:00,702
+252,US-Mexico Border,Big Bend,TX,1/1/2012 0:00,3964
+253,US-Mexico Border,Del Rio,TX,1/1/2012 0:00,21720
+254,US-Mexico Border,El Centro,CA,1/1/2012 0:00,23916
+255,US-Mexico Border,El Paso,"NM, TX",1/1/2012 0:00,9678
+256,US-Mexico Border,Laredo,TX,1/1/2012 0:00,44872
+257,US-Mexico Border,Rio Grande Valley,TX,1/1/2012 0:00,97762
+258,US-Mexico Border,San Diego,CA,1/1/2012 0:00,28461
+259,US-Mexico Border,Tucson,AZ,1/1/2012 0:00,120000
+260,US-Mexico Border,Yuma,"CA, AZ",1/1/2012 0:00,6500
+261,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2013 0:00,1738
+262,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2013 0:00,500
+263,US-Mexico Border,Ramey,PR,1/1/2013 0:00,924
+264,US-Canada Border,Blaine,"WA, OR",1/1/2013 0:00,360
+265,US-Canada Border,Buffalo,"NY, PA",1/1/2013 0:00,796
+266,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2013 0:00,650
+267,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2013 0:00,469
+268,US-Canada Border,Havre,MT,1/1/2013 0:00,88
+269,US-Canada Border,Houlton,ME,1/1/2013 0:00,37
+270,US-Canada Border,Spokane,"MT, ID, WA",1/1/2013 0:00,299
+271,US-Canada Border,Swanton,"NH, VT, NY",1/1/2013 0:00,531
+272,US-Mexico Border,Big Bend,TX,1/1/2013 0:00,3684
+273,US-Mexico Border,Del Rio,TX,1/1/2013 0:00,23510
+274,US-Mexico Border,El Centro,CA,1/1/2013 0:00,16306
+275,US-Mexico Border,El Paso,"NM, TX",1/1/2013 0:00,11154
+276,US-Mexico Border,Laredo,TX,1/1/2013 0:00,50749
+277,US-Mexico Border,Rio Grande Valley,TX,1/1/2013 0:00,154453
+278,US-Mexico Border,San Diego,CA,1/1/2013 0:00,27496
+279,US-Mexico Border,Tucson,AZ,1/1/2013 0:00,120939
+280,US-Mexico Border,Yuma,"CA, AZ",1/1/2013 0:00,6106
+281,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2014 0:00,2034
+282,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2014 0:00,950
+283,US-Mexico Border,Ramey,PR,1/1/2014 0:00,958
+284,US-Canada Border,Blaine,"WA, OR",1/1/2014 0:00,272
+285,US-Canada Border,Buffalo,"NY, PA",1/1/2014 0:00,741
+286,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2014 0:00,647
+287,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2014 0:00,767
+288,US-Canada Border,Havre,MT,1/1/2014 0:00,91
+289,US-Canada Border,Houlton,ME,1/1/2014 0:00,45
+290,US-Canada Border,Spokane,"MT, ID, WA",1/1/2014 0:00,269
+291,US-Canada Border,Swanton,"NH, VT, NY",1/1/2014 0:00,506
+292,US-Mexico Border,Big Bend,TX,1/1/2014 0:00,4096
+293,US-Mexico Border,Del Rio,TX,1/1/2014 0:00,24255
+294,US-Mexico Border,El Centro,CA,1/1/2014 0:00,14511
+295,US-Mexico Border,El Paso,"NM, TX",1/1/2014 0:00,12339
+296,US-Mexico Border,Laredo,TX,1/1/2014 0:00,44049
+297,US-Mexico Border,Rio Grande Valley,TX,1/1/2014 0:00,256393
+298,US-Mexico Border,San Diego,CA,1/1/2014 0:00,29911
+299,US-Mexico Border,Tucson,AZ,1/1/2014 0:00,87915
+300,US-Mexico Border,Yuma,"CA, AZ",1/1/2014 0:00,5902
+301,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2015 0:00,1752
+302,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2015 0:00,849
+303,US-Mexico Border,Ramey,PR,1/1/2015 0:00,557
+304,US-Canada Border,Blaine,"WA, OR",1/1/2015 0:00,282
+305,US-Canada Border,Buffalo,"NY, PA",1/1/2015 0:00,291
+306,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2015 0:00,637
+307,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2015 0:00,789
+308,US-Canada Border,Havre,MT,1/1/2015 0:00,64
+309,US-Canada Border,Houlton,ME,1/1/2015 0:00,32
+310,US-Canada Border,Spokane,"MT, ID, WA",1/1/2015 0:00,190
+311,US-Canada Border,Swanton,"NH, VT, NY",1/1/2015 0:00,341
+312,US-Mexico Border,Big Bend,TX,1/1/2015 0:00,5031
+313,US-Mexico Border,Del Rio,TX,1/1/2015 0:00,19013
+314,US-Mexico Border,El Centro,CA,1/1/2015 0:00,12820
+315,US-Mexico Border,El Paso,"NM, TX",1/1/2015 0:00,14495
+316,US-Mexico Border,Laredo,TX,1/1/2015 0:00,35888
+317,US-Mexico Border,Rio Grande Valley,TX,1/1/2015 0:00,147257
+318,US-Mexico Border,San Diego,CA,1/1/2015 0:00,26290
+319,US-Mexico Border,Tucson,AZ,1/1/2015 0:00,63397
+320,US-Mexico Border,Yuma,"CA, AZ",1/1/2015 0:00,7142
+321,US-Mexico Border,Miami,"FL, GA, SC, NC",1/1/2016 0:00,3205
+322,US-Mexico Border,New Orleans,"LA, AL, MS, FL",1/1/2016 0:00,764
+323,US-Mexico Border,Ramey,PR,1/1/2016 0:00,694
+324,US-Canada Border,Blaine,"WA, OR",1/1/2016 0:00,271
+325,US-Canada Border,Buffalo,"NY, PA",1/1/2016 0:00,226
+326,US-Canada Border,Detroit,"OH, MI, IN, IL",1/1/2016 0:00,716
+327,US-Canada Border,Grand Forks,"WI, MN, ND",1/1/2016 0:00,505
+328,US-Canada Border,Havre,MT,1/1/2016 0:00,43
+329,US-Canada Border,Houlton,ME,1/1/2016 0:00,25
+330,US-Canada Border,Spokane,"MT, ID, WA",1/1/2016 0:00,206
+331,US-Canada Border,Swanton,"NH, VT, NY",1/1/2016 0:00,291
+332,US-Mexico Border,Big Bend,TX,1/1/2016 0:00,6366
+333,US-Mexico Border,Del Rio,TX,1/1/2016 0:00,23078
+334,US-Mexico Border,El Centro,CA,1/1/2016 0:00,19448
+335,US-Mexico Border,El Paso,"NM, TX",1/1/2016 0:00,25634
+336,US-Mexico Border,Laredo,TX,1/1/2016 0:00,36562
+337,US-Mexico Border,Rio Grande Valley,TX,1/1/2016 0:00,186830
+338,US-Mexico Border,San Diego,CA,1/1/2016 0:00,31891
+339,US-Mexico Border,Tucson,AZ,1/1/2016 0:00,64891
+340,US-Mexico Border,Yuma,"CA, AZ",1/1/2016 0:00,14170
